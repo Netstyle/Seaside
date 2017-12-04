@@ -1,10 +1,12 @@
 language: smalltalk
 sudo: false
 smalltalk:
+  - Pharo-7.0
   - Pharo-6.1
   - Pharo-6.0
   - Pharo-5.0
   - Pharo-4.0
+  - Squeak-trunk
   - Squeak-5.1
   - GemStone-3.3.4
   - GemStone-3.2.17
