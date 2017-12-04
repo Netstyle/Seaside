@@ -1,4 +1,4 @@
-# The framework for developing sophisticated web applications in Smalltalk.
+# fake change The framework for developing sophisticated web applications in Smalltalk.
 master [![Build Status: master](https://travis-ci.org/SeasideSt/Seaside.svg?branch=master)](https://travis-ci.org/SeasideSt/Seaside)
 
 development
