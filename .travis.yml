@@ -21,10 +21,12 @@ matrix:
   include:
     - smalltalk: Squeak-5.1
       os: osx
+      env: BUILD_NAME=Squeak-5.1
     - smalltalk: GemStone-2.4.8
       cache:
         directories:
           - $SMALLTALK_CI_CACHE
+      env: BUILD_NAME=GemStone-2.4.8
     - smalltalk: GemStone-3.1.0.6
       cache:
         directories:
